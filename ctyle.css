@@ -1,0 +1,38 @@
+.logo{font-family: Raleway;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+    color:#2196F3;
+    }
+    .nav-list-link{
+        font-family: Roboto;
+font-size: 14px;
+font-weight: 500;
+line-height: 16px;
+letter-spacing: 0.02em;
+color:  #212121;
+
+    }
+    .contacts-list-link{
+        font-family: Roboto;
+font-size: 14px;
+font-weight: 500;
+line-height: 16px;
+letter-spacing: 0.02em;
+text-align: left;
+color: #757575;
+;
+    }
+    a{
+        text-decoration: none;
+    }
+    ul{
+        list-style: none;
+    }
+    .header-logo{
+        color: #000000;
+    }
+    .contacts-list-link:hover,.nav-list-link:hover{
+        color: #2196F3;
+    }
